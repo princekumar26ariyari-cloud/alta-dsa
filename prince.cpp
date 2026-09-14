@@ -1,4 +1,4 @@
-Make Plain Text
+
 #include <iostream>
 using namespace std;
 
